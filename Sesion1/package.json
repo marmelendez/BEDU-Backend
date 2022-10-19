@@ -9,6 +9,7 @@
   "author": "Maribel Melendez",
   "license": "ISC",
   "dependencies": {
-    "moment": "^2.29.4"
+    "moment": "^2.29.4",
+    "nodemon": "^2.0.20"
   }
 }

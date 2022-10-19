@@ -1,4 +1,9 @@
-# Sesion 1 | 18 de octubre del 2022
+# Sesion 1
+
+## Fundamentos de Node.js
+
+### 18 de octubre del 2022
+
 1. Instalación de node. [Descargar](https://nodejs.org/en/) LTS (long term support).
 2. O prueba si lo tienes instalado con `node --version`.
 3. Buscar en [npm](https://www.npmjs.com/) modulos de terceros (usualmente usado en back-end).
@@ -10,9 +15,10 @@
 7. Instalar librerías `npm install`. Para más información checa este [link](https://docs.npmjs.com/cli/v8/commands/npm-install).
    - Instalar librería moment `npm i moment`
 8. Si quiero eliminar una dependencia (1) elimina node_modules y del package.json su línea en _dependencies_.
-9.  Tambien puedes cambiar versión de dependencia al modificar su versión en package.json
+9. Tambien puedes cambiar versión de dependencia al modificar su versión en package.json
 
 ## Resources
+
 - [.gitignore docs](https://www.toptal.com/developers/gitignore/)
 - [npm](https://www.npmjs.com/)
 - [yarn](https://yarnpkg.com/)

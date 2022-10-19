@@ -7,6 +7,7 @@
 4. Otra opción de modulos de terceros es [yarn](https://yarnpkg.com/) (usualmente usado en front-end)
 5. Para correr el código `node <nombre_archivo>`
 6. `npm init -y` o `npm init` para personalizar configuración de **package.json**.
-7. Instalar librería moment `npm i moment`
+7. Instalar librerías `npm install`. Para más información checa este [link](https://docs.npmjs.com/cli/v8/commands/npm-install).
+   - Instalar librería moment `npm i moment`
 8. Si quiero eliminar una dependencia (1) elimina node_modules y del package.json su línea en _dependencies_.
-9. Tambien puedes cambiar versión de dependencia al modificar su versión en package.json
+9.  Tambien puedes cambiar versión de dependencia al modificar su versión en package.json

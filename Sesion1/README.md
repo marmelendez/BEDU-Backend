@@ -11,3 +11,8 @@
    - Instalar librería moment `npm i moment`
 8. Si quiero eliminar una dependencia (1) elimina node_modules y del package.json su línea en _dependencies_.
 9.  Tambien puedes cambiar versión de dependencia al modificar su versión en package.json
+
+## Resources
+- [.gitignore docs](https://www.toptal.com/developers/gitignore/)
+- [npm](https://www.npmjs.com/)
+- [yarn](https://yarnpkg.com/)

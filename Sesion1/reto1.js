@@ -8,7 +8,7 @@ const server = http.createServer((req, res) => {
     res.end(JSON.stringify({
         success: true,
         canIGetCoffee: false,
-        responseCode: 0123
+        responseCode: 123
     }))
 })
 

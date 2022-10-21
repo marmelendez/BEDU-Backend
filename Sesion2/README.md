@@ -29,5 +29,4 @@ Servidores
 - base de datos: almacen y gestion
 - web: archivos de página web, http
 
-
 ## Resources

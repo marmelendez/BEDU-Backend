@@ -14,5 +14,10 @@ function fizzBuzz() {
 // fizzBuzz()
 
 let { random } = require('./principal.js')
+const lista = []
 
-console.log(random(1, 50))
+for (let i = 0; i < 50; i++) {
+    lista.push(random(i, 100))
+}
+
+console.log(lista);

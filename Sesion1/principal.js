@@ -20,7 +20,10 @@ function multiplicarFn(num1, num2) {
     console.log(num1 * num2);
 }
 
-module.exports = {sumarFn, restarFn, dividirFn, multiplicarFn};
+// Random
+random = (min, max) => Math.floor(Math.random() * (max - min + 1) + min)
+
+module.exports = {sumarFn, restarFn, dividirFn, multiplicarFn, random};
 // Ya se puede utilizar en otros archivos
 
 

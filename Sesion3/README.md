@@ -1,12 +1,10 @@
-# Sesion 3
+# Sesion 3 | Modelo asincronico y no bloqueante
 
-## Modelo asincronico y no bloqueante
+25 de octubre del 2022
 
-### 25 de octubre del 2022
+## Modelos de concurrencia
 
-#### Modelos de concurrencia
-
-Multihilos
+### Multihilos
 
 _Thread:_ ejecutar bloque de instrucciones, atender peticiones de múltiples usuarios al mismo tiempo.
 Lenguajes que soportan multihilos: Java o Python
@@ -14,7 +12,8 @@ Lenguajes que soportan multihilos: Java o Python
 Modelo asincrono y no bloqueante
 Javascript trabajo con un solo hilo su modelo de concurrencia se basa en el loop de eventos (Event Loop).
 
-Asincronia en JS  
+### Asincronia en JS  
+
 Callbacks: función que se ejecutará después de que otra lo haga  
 Promises: objeto que representa el resultado de una operación asíncrona y tiene 3 estados posibles:
 - Pendiente
@@ -23,7 +22,13 @@ Promises: objeto que representa el resultado de una operación asíncrona y tien
 
 Async / Await: mejora de promises
 
-Event loop
+### Event loop
+
+Call stack: funciones a ser llamadas  
+Callback queue: callback de las funciones
+
+
+## Operaciones
 
 - **Operaciones de CPU**: consumen procesos de CPU
 - **Operaciones de I/O (Entrada y Salida)**: esperan respuesta de peticion o recurso.

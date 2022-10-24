@@ -1,8 +1,6 @@
-# Sesion 1
+# Sesion 1 | Fundamentos de Node.js
 
-## Fundamentos de Node.js
-
-### 18 de octubre del 2022
+18 de octubre del 2022
 
 1. Instalación de node. [Descargar](https://nodejs.org/en/) LTS (long term support).
 2. O prueba si lo tienes instalado con `node --version`.

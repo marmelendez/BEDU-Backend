@@ -1,16 +1,14 @@
-# Sesion 2
+# Sesion 2 | Módulos esenciales
 
-## Módulos esenciales
+20 de octubre del 2022
 
-### 20 de octubre del 2022
-
-#### Módulo fs
+## Módulo fs
 
 Nos permite subir, editar, eliminar y crear.
 
 `const fs = require('fs');`
 
-Métodos
+### Métodos
 
 1. Crear archivo `.appendFile()`
    - asincronico, crear nuevo archivo si no existe, parámetros (path<nombre_archivo>, data<datos_a_agregar>, options, callback)
@@ -21,7 +19,7 @@ Métodos
 4. Renombrar archivo `fs.rename (oldPath, newPath, callback)`
 5. Eliminar archivo `fs.unlink( path, callback )`
 
-Servidores
+## Servidores
 
 - correo
 - proxy: mejorar privacidad, ocultar info de cliente

@@ -27,7 +27,6 @@ Async / Await: mejora de promises
 Call stack: funciones a ser llamadas  
 Callback queue: callback de las funciones
 
-
 ## Operaciones
 
 - **Operaciones de CPU**: consumen procesos de CPU

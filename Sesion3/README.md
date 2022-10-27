@@ -16,6 +16,7 @@ Javascript trabajo con un solo hilo su modelo de concurrencia se basa en el loop
 
 Callbacks: función que se ejecutará después de que otra lo haga  
 Promises: objeto que representa el resultado de una operación asíncrona y tiene 3 estados posibles:
+
 - Pendiente
 - Resuelta
 - Rechazada  

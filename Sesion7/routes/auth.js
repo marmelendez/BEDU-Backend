@@ -18,7 +18,7 @@ router.post('/login', async (req, res) => {
 })
 
 router.post('/signup', (req, res) => {
-
-})
+    // TODO implement sign up
+})  
 
 module.exports = router
